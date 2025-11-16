@@ -15,7 +15,7 @@ Scraping ulasan, rating, serta nama produk dari halaman review Fantech Official 
   
 - jalankan script scrape
   ```
-  python scraping.py
+  python scrape.py
   ```
 
 - jalankan script see (melihat data csv)
